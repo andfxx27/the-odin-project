@@ -17,7 +17,11 @@
 - [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
 
-### Git Basics
+#### Git Basics
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+#### Introduction to HTML and CSS
+- [FreeCodeCamp article - HTML, CSS, and JS explained for beginners](https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/) 
+- [DevDocs.io](https://devdocs.io/): online/offline api documentation related to front end web development
 
 ---
