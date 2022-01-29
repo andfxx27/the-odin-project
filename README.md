@@ -24,4 +24,7 @@
 - [FreeCodeCamp article - HTML, CSS, and JS explained for beginners](https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/) 
 - [DevDocs.io](https://devdocs.io/): online/offline api documentation related to front end web development
 
+#### Elements and Tags
+- [Don't Fear the Internet's Video about HTML](http://www.dontfeartheinternet.com/02-html)
+
 ---
