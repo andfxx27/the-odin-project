@@ -38,4 +38,8 @@
 - [Live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Lang attribute in HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang)
 
+#### Working With Text
+
+- [Lorem Ipsum](https://loremipsum.io/)
+
 ---
