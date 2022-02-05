@@ -52,4 +52,11 @@
 
 - [Interneting is hard's treatment on HTML links and images](https://www.internetingishard.com/html-and-css/links-and-images/)
 
+#### CSS Foundations
+
+- [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
+- [Changing the Font Family](https://www.bitdegree.org/learn/font-family-css#how-to-use-a-downloaded-font)
+- [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)
+- [Mozilla CSS Properties Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
+
 ---
