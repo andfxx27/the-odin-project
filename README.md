@@ -63,4 +63,10 @@
 
 - [LearnLayout.com](https://learnlayout.com/no-layout.html)
 
+#### Alignment
+
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+- [Flexbox Tutorial - FreeCodeCamp](https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/)
+
 ---
