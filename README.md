@@ -68,5 +68,6 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox Zombies](https://mastery.games/flexboxzombies/)
 - [Flexbox Tutorial - FreeCodeCamp](https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/)
+- [Flexbox Crash Course by Traversy Media](https://www.youtube.com/watch?v=3YW65K6LcIA)
 
 ---
