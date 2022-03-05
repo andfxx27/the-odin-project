@@ -70,4 +70,8 @@
 - [Flexbox Tutorial - FreeCodeCamp](https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/)
 - [Flexbox Crash Course by Traversy Media](https://www.youtube.com/watch?v=3YW65K6LcIA)
 
+#### JavaScript Basics - Fundamentals Part 1
+
+- [Hacker Noon on why you shouldn't use var anymore](https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70)
+
 ---
