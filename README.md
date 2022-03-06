@@ -78,4 +78,8 @@
 
 - [The Net Ninja's Regular Expressions Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
 
+#### JavaScript Basics - JavaScript Developer Tools
+
+- [14 Chrome Dev Tools Tips and Tricks by Wes Box](https://www.youtube.com/watch?v=xkzDaKwinA8)
+
 ---
