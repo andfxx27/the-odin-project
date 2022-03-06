@@ -74,4 +74,8 @@
 
 - [Hacker Noon on why you shouldn't use var anymore](https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70)
 
+#### JavaScript Basics - Fundamentals Part 2
+
+- [The Net Ninja's Regular Expressions Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
+
 ---
