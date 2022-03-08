@@ -91,4 +91,11 @@
 
 - [MDN JavaScript Errors Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
 
+#### JavaScript Basics - Clean Code
+
+- [Code as Documentation](https://www.martinfowler.com/bliki/CodeAsDocumentation.html)
+- [Self-Documenting Code](http://wiki.c2.com/?SelfDocumentingCode)
+- [Airbnb Style Guide](https://github.com/airbnb/javascript)
+- [Chaining methods to write sentences](https://web.archive.org/web/20190211152543/https://javascriptissexy.com/beautiful-javascript-easily-create-chainable-cascading-methods-for-expressiveness/)
+
 ---
