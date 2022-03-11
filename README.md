@@ -98,4 +98,15 @@
 - [Airbnb Style Guide](https://github.com/airbnb/javascript)
 - [Chaining methods to write sentences](https://web.archive.org/web/20190211152543/https://javascriptissexy.com/beautiful-javascript-easily-create-chainable-cascading-methods-for-expressiveness/)
 
+#### JavaScript Basics - DOM Manipulation and Events
+
+- [Eloquent JS - DOM](http://eloquentjavascript.net/13_dom.html)
+- [Eloquent JS - Handling Events](http://eloquentjavascript.net/14_event.html)
+- [DOM Englightenment](http://domenlightenment.com/)
+- [JavaScript30](https://javascript30.com/)
+- [Plain JavaScript](https://plainjs.com/javascript/)
+- [W3Schools HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+- [JS DOM Crash Course by Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+- [Understanding the DOM - DigitalOcean](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model)
+
 ---
